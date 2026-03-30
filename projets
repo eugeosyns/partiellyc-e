@@ -132,7 +132,8 @@
     </nav>
     <main class="d-flex flex-column w-75 mx-auto mt-2 gap-3">
         <p>
-        <h3><i class="fa-solid fa-message"></i></i>Mot du proviseur</h3>
+        <h3><i class="fa-solid fa-message"></i></i>Projets</h3>
+        Pas de projets pour l'instant
         </p>
     </main>
 </body>
