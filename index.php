@@ -9,7 +9,7 @@
 
 <body>
     <?php
-    include("header.php")
+    include("header.html")
         ?>
     <main class="d-flex flex-column w-75 mx-auto mt-2 gap-3">
         <h1>Bienvenue sur le site officiel du lycée Kernanec de Marcq en Baroeul !</h1>
