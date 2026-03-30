@@ -64,7 +64,7 @@
             options
             souhaitées (enseignements d’exploration, etc…)</p>
 
-        <h5>Le lycée Kernanec est-il mon lycée de secteur ?</h5>
+        <strong>Le lycée Kernanec est-il mon lycée de secteur ?</strong>
 
         <p>Votre lycée de secteur est défini par votre adresse : vous pouvez nous interroger à ce sujet ou
             l’établissement
