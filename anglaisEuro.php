@@ -13,7 +13,7 @@
     include("header.html")
         ?>
     <main class="d-flex flex-column w-75 mx-auto mt-2 gap-3">
-        <h3><i class="fa-solid fa-message"></i>Les enseignements du cycle terminale</h3>
+        <h3><i class="fa-solid fa-message"></i>L'option anglais euro</h3>
         <P><strong>Particularités des enseignements</strong></P>
 
         <p>L’ enseignement dispensé dans cette section repose sur les programmes en vigueur. Il est cependant aménagé :
