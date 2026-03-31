@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "playfair";
+    src: url("assets/font/PlayfairDisplay-VariableFont_wght.ttf") format('ttf');
+}
+
+
+.rond {
+    border-radius: 110px;
+}
+
+.imgacceuil {
+    width: 512px;
+    height: auto;
+}
+
+.titre {
+    font-size: 64px;
+    font-family: "playfair";
+}
