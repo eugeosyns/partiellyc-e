@@ -34,3 +34,13 @@
 .card-title {
     margin-left: 40px;
 }
+
+.margin {
+    margin-top: 150px !important;
+}
+
+.imgprov {
+    border: 5px solid #0a80ff;
+    border-radius: 1000px;
+    width: 200px;
+}
