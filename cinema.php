@@ -50,6 +50,9 @@
             5 heures de CAV (3h de cours et 2h de TP) pour les élèves de série L uniquement.<br>
             évaluation par une épreuve écrite (coef 3) et une épreuve orale au baccalauréat (coef 3)</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

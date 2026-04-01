@@ -52,6 +52,9 @@
 
         <p>Texte officiel : <a href="http://www.education.gouv.fr/bo/2006/45/MENE0602019C.html">education.gouv</a></p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

@@ -30,6 +30,9 @@
             <button type="submit"></button>
         </form>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

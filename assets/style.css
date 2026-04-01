@@ -8,10 +8,7 @@
     border-radius: 110px;
 }
 
-.imgacceuil {
-    width: 512px;
-    height: auto;
-}
+
 
 .titre {
     font-size: 64px;
@@ -19,6 +16,21 @@
 }
 
 .imgcard {
-    height: 100px;
+    height: 64px;
     width: auto;
+    align-self: flex-start;
+    margin: 40px;
+}
+
+.w-10 {
+    width: 60px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text,
+.card-title {
+    margin-left: 40px;
 }

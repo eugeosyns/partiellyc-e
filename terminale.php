@@ -110,6 +110,9 @@
             </li>
         </ul>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

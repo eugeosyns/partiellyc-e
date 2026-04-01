@@ -99,6 +99,9 @@
 
         <p>(Source : Ministère de l’Éducation Nationale)</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

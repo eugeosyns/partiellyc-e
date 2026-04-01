@@ -33,6 +33,9 @@
 
         <p>Pour toute information complémentaire, s’adresser aux professeurs d’EPS.</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

@@ -20,6 +20,9 @@
             Une rencontre des anciens, des années 60 aux années 90, sera peut-être organisée en septembre ou octobre
             2018.</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

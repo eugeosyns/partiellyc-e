@@ -55,6 +55,9 @@
             pour
             la création de ce site.</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

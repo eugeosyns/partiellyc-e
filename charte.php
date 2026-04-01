@@ -22,6 +22,9 @@
             <a href="http://www.education.gouv.fr/pid25535/bulletin_officiel.html?cid_bo=73659">education.gouv</a>
         </p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

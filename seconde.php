@@ -89,3 +89,10 @@
         Au moment de l’inscription, l’élève formule des vœux pour le deuxième enseignement d’exploration. La répartition
         dans
         les groupes tient compte de ces vœux et des places disponibles.
+    </main>
+    <?php
+    include("footer.php")
+        ?>
+</body>
+
+</html>

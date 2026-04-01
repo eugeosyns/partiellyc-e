@@ -48,6 +48,9 @@
 
         <p>Nous contacter !</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

@@ -22,6 +22,9 @@
             Chaque élève membre pourra participer aux Assemblées Générales de la MdL. Les dates de ces réunions seront
             affichées dans l’établissement.</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>

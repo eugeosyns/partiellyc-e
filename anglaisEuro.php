@@ -36,6 +36,9 @@
         <p>L’indication "section européenne anglais" est inscrite sur le diplôme du baccalauréat.<br>
             Cette indication dépend des résultats obtenus par le candidat :</p>
     </main>
+    <?php
+    include("footer.php")
+        ?>
 </body>
 
 </html>
