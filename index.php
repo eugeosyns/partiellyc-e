@@ -11,7 +11,7 @@
     <?php
     include("header.html")
         ?>
-    <main class="d-flex flex-column mx-auto mt-5 gap-5">
+    <main class="d-flex flex-column mx-auto mt-5 gap-5 margin">
         <div class="d-flex flex-wrap justify-content-around gap">
             <div>
                 <h1 class="titre">Bâtir votre réussite au Lycée Kernanec</h1>
@@ -68,7 +68,7 @@
 
 
 
-        <div class="d-flex flex-wrap justify-content-around align-items-center">
+        <div class="d-flex flex-wrap justify-content-around align-items-center margin">
             <div class="text-center ">
                 <img src="img/proviseur.png" alt="" class="imgprov">
                 <h3>Michel Fauuette</h3>

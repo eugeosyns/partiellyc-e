@@ -1,4 +1,4 @@
-<footer class="bg-secondary mb-0 text-light pt-3">
+<footer class="bg-secondary mb-0 text-light pt-3 margin">
     <div class="d-flex flex-wrap justify-content-around">
         <div>
             <h2>Lycée kernanec</h2>
