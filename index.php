@@ -35,7 +35,7 @@
             </div>
             <div class="d-flex flex-wrap">
                 <div class="card rounded-5" style="width: 18rem;">
-                    <img src="img/calendar.svg" alt="..." class="imgcard">
+                    <img src="img/calendrier.svg" alt="..." class="imgcard">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -47,7 +47,7 @@
             </div>
             <div class="d-flex flex-wrap">
                 <div class="card rounded-5" style="width: 18rem;">
-                    <img src="img/parents.svg" alt="..." class="imgcard">
+                    <img src="img/parent.svg" alt="..." class="imgcard">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
@@ -59,7 +59,7 @@
             </div>
             <div class="d-flex flex-wrap">
                 <div class="card rounded-5" style="width: 18rem;">
-                    <img src="img/postbac.svg" alt="..." class="imgcard">
+                    <img src="img/post.svg" alt="..." class="imgcard">
                     <div class="card-body">
                         <h5 class="card-title">Card title</h5>
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of
