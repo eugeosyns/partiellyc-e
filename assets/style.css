@@ -78,6 +78,10 @@ li {
     color: var(--secondary);
 }
 
+input {
+    border-radius: 15px !important;
+}
+
 .text-light {
     color: var(--light) !important;
 }
