@@ -44,7 +44,7 @@
             </div>
             <div class="d-flex flex-wrap">
                 <div class="card rounded-5" style="width: 18rem;">
-                    <img src="img/parent.svg" alt="..." class="imgcard">
+                    <img src="img/parents.svg" alt="..." class="imgcard">
                     <div class="card-body">
                         <h5 class="card-title mb-3">Espace parents</h5>
                         <p class="card-text">Accédez aux ressources et informations destinées aux parents d'élèves</p>
@@ -54,12 +54,10 @@
             </div>
             <div class="d-flex flex-wrap">
                 <div class="card rounded-5" style="width: 18rem;">
-                    <img src="img/post.svg" alt="..." class="imgcard ">
+                    <img src="img/postbac.svg" alt="..." class="imgcard ">
                     <div class="card-body">
-                        <h5 class="card-title mb-3">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the
-                            card’s content.</p>
+                        <h5 class="card-title mb-3">Orientation Post Bac</h5>
+                        <p class="card-text">Préparez votre avenir avec nos services d'orientation et de conseil</p>
 
                     </div>
                 </div>
